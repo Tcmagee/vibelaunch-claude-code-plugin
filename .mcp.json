@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "vibelaunch": {
+      "type": "http",
+      "url": "https://mcp.vibelaunch.live/mcp",
+      "oauth": {
+        "scopes": "mcp:tools"
+      }
+    }
+  }
+}
