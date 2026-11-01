@@ -1,0 +1,17 @@
+{
+  "name": "vibelaunch",
+  "owner": {
+    "name": "GlintHQ",
+    "email": "hello@vibelaunch.live"
+  },
+  "metadata": {
+    "description": "Official VibeLaunch plugin: publish AI-built apps to a live link."
+  },
+  "plugins": [
+    {
+      "name": "vibelaunch",
+      "source": "./",
+      "description": "Publish apps you make with Claude to a live, shareable link, and update them at the same link."
+    }
+  ]
+}
