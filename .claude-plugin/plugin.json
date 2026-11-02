@@ -1,8 +1,8 @@
 {
   "name": "vibelaunch",
   "displayName": "VibeLaunch",
-  "version": "0.1.0",
-  "description": "Publish and safely manage supported VibeLaunch apps through the production remote connector.",
+  "version": "0.2.0",
+  "description": "Publish apps you make with Claude to a live, shareable link, and update them at the same link.",
   "author": {
     "name": "GlintHQ",
     "email": "hello@vibelaunch.live"
@@ -12,7 +12,9 @@
   "license": "MIT",
   "keywords": [
     "vibelaunch",
-    "publishing",
+    "publish",
+    "share",
+    "hosting",
     "mcp"
   ]
 }
